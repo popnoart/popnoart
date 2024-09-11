@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on EON as always. EON is my CMS for learning.
+- 🌱 I’m currently learning ASIR. I'm going to start in a month Administración de Sistemas Informáticos en Red (DigitechFP)
+
 <!--
 **popnoart/popnoart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
