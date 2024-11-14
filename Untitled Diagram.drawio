@@ -215,7 +215,7 @@
         <mxCell id="Nx9srBpKDY4uUFDvCekh-12" value="(1:1)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="500" y="290" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Nx9srBpKDY4uUFDvCekh-13" value="(0:M)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="Nx9srBpKDY4uUFDvCekh-13" value="(1:M)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="240" y="290" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Nx9srBpKDY4uUFDvCekh-14" value="" style="group" vertex="1" connectable="0" parent="1">
@@ -235,7 +235,7 @@
         <mxCell id="Nx9srBpKDY4uUFDvCekh-20" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="Nx9srBpKDY4uUFDvCekh-19">
           <mxGeometry x="5.882352941176468" y="-4.800000000000001" width="82.35294117647057" height="44.800000000000004" as="geometry" />
         </mxCell>
-        <mxCell id="Nx9srBpKDY4uUFDvCekh-21" value="&lt;span style=&quot;color: rgb(55, 58, 60); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Helvetica Neue&amp;quot;, Arial, &amp;quot;Noto Sans&amp;quot;, &amp;quot;Liberation Sans&amp;quot;, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; font-size: 15px; text-align: left; text-wrap-mode: wrap; background-color: rgb(255, 255, 255);&quot;&gt;tiene&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="Nx9srBpKDY4uUFDvCekh-19">
+        <mxCell id="Nx9srBpKDY4uUFDvCekh-21" value="&lt;span style=&quot;color: rgb(55, 58, 60); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Helvetica Neue&amp;quot;, Arial, &amp;quot;Noto Sans&amp;quot;, &amp;quot;Liberation Sans&amp;quot;, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; font-size: 15px; text-align: left; text-wrap-mode: wrap; background-color: rgb(255, 255, 255);&quot;&gt;tienen&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="Nx9srBpKDY4uUFDvCekh-19">
           <mxGeometry x="17.061764705882347" y="1.604000000000001" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Nx9srBpKDY4uUFDvCekh-25" value="(1:M)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -344,6 +344,15 @@
         </mxCell>
         <mxCell id="Nx9srBpKDY4uUFDvCekh-70" value="" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=#4C0099;fillColor=none;" vertex="1" parent="Nx9srBpKDY4uUFDvCekh-69">
           <mxGeometry x="-70" y="-5" width="135" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Nx9srBpKDY4uUFDvCekh-75" value="(1:M)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="506" y="485" width="60" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="Nx9srBpKDY4uUFDvCekh-76" value="(1:1)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="265" y="497" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Nx9srBpKDY4uUFDvCekh-77" value="(1:N)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="607" y="339" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
