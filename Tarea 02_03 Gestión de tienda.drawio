@@ -108,8 +108,8 @@
             <mxGeometry width="120" height="40" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="0A-Gsc1vRNAE1-bes-Se-2" value="&lt;span style=&quot;color: rgb(55, 58, 60); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Helvetica Neue&amp;quot;, Arial, &amp;quot;Noto Sans&amp;quot;, &amp;quot;Liberation Sans&amp;quot;, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; font-size: 15px; text-align: left; text-wrap-mode: wrap; background-color: rgb(255, 255, 255);&quot;&gt;Proveedores&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="0A-Gsc1vRNAE1-bes-Se-23" vertex="1">
-          <mxGeometry x="5" y="5" width="110" height="30" as="geometry" />
+        <mxCell id="0A-Gsc1vRNAE1-bes-Se-2" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font face=&quot;-apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial, Noto Sans, Liberation Sans, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji&quot; color=&quot;#373a3c&quot;&gt;&lt;span style=&quot;font-size: 15px; text-wrap-mode: wrap; background-color: rgb(255, 255, 255);&quot;&gt;Empresa&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="0A-Gsc1vRNAE1-bes-Se-23" vertex="1">
+          <mxGeometry x="20" y="5" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0A-Gsc1vRNAE1-bes-Se-29" value="" style="group;labelBackgroundColor=default;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="560" y="299" width="120" height="45" as="geometry" />
@@ -119,8 +119,8 @@
             <mxGeometry width="120" height="40" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="0A-Gsc1vRNAE1-bes-Se-31" value="&lt;span style=&quot;color: rgb(55, 58, 60); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Helvetica Neue&amp;quot;, Arial, &amp;quot;Noto Sans&amp;quot;, &amp;quot;Liberation Sans&amp;quot;, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; font-size: 15px; text-align: left; text-wrap-mode: wrap; background-color: rgb(255, 255, 255);&quot;&gt;Piezas&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="0A-Gsc1vRNAE1-bes-Se-29" vertex="1">
-          <mxGeometry x="25" y="5" width="70" height="30" as="geometry" />
+        <mxCell id="0A-Gsc1vRNAE1-bes-Se-31" value="&lt;span style=&quot;color: rgb(55, 58, 60); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Helvetica Neue&amp;quot;, Arial, &amp;quot;Noto Sans&amp;quot;, &amp;quot;Liberation Sans&amp;quot;, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; font-size: 15px; text-align: left; text-wrap-mode: wrap; background-color: rgb(255, 255, 255);&quot;&gt;Productos&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="0A-Gsc1vRNAE1-bes-Se-29" vertex="1">
+          <mxGeometry x="15" y="5" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0A-Gsc1vRNAE1-bes-Se-32" value="" style="group;labelBackgroundColor=default;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="640" y="240" width="70" height="30" as="geometry" />
@@ -146,8 +146,8 @@
         <mxCell id="0A-Gsc1vRNAE1-bes-Se-40" value="" style="rhombus;whiteSpace=wrap;html=1;" parent="Nx9srBpKDY4uUFDvCekh-2" vertex="1">
           <mxGeometry x="10" y="-6" width="140" height="56" as="geometry" />
         </mxCell>
-        <mxCell id="Nx9srBpKDY4uUFDvCekh-1" value="&lt;span style=&quot;color: rgb(55, 58, 60); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Helvetica Neue&amp;quot;, Arial, &amp;quot;Noto Sans&amp;quot;, &amp;quot;Liberation Sans&amp;quot;, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; font-size: 15px; text-align: left; text-wrap-mode: wrap; background-color: rgb(255, 255, 255);&quot;&gt;suministran&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="Nx9srBpKDY4uUFDvCekh-2" vertex="1">
-          <mxGeometry x="30" y="3.005000000000001" width="100" height="30" as="geometry" />
+        <mxCell id="Nx9srBpKDY4uUFDvCekh-1" value="&lt;span style=&quot;color: rgb(55, 58, 60); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Helvetica Neue&amp;quot;, Arial, &amp;quot;Noto Sans&amp;quot;, &amp;quot;Liberation Sans&amp;quot;, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; font-size: 15px; text-align: left; text-wrap-mode: wrap; background-color: rgb(255, 255, 255);&quot;&gt;vende&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="Nx9srBpKDY4uUFDvCekh-2" vertex="1">
+          <mxGeometry x="50" y="3.005000000000001" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Nx9srBpKDY4uUFDvCekh-5" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="0A-Gsc1vRNAE1-bes-Se-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -169,8 +169,8 @@
             <mxGeometry width="120" height="40" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="Nx9srBpKDY4uUFDvCekh-16" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font face=&quot;-apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial, Noto Sans, Liberation Sans, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji&quot; color=&quot;#373a3c&quot;&gt;&lt;span style=&quot;font-size: 15px; text-wrap-mode: wrap; background-color: rgb(255, 255, 255);&quot;&gt;Categorías&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="Nx9srBpKDY4uUFDvCekh-14" vertex="1">
-          <mxGeometry x="10" y="5" width="100" height="30" as="geometry" />
+        <mxCell id="Nx9srBpKDY4uUFDvCekh-16" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font face=&quot;-apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial, Noto Sans, Liberation Sans, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji&quot; color=&quot;#373a3c&quot;&gt;&lt;span style=&quot;font-size: 15px; text-wrap-mode: wrap; background-color: rgb(255, 255, 255);&quot;&gt;Clientes&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="Nx9srBpKDY4uUFDvCekh-14" vertex="1">
+          <mxGeometry x="20" y="5" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Nx9srBpKDY4uUFDvCekh-19" value="" style="group;labelBackgroundColor=default;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="540" y="400" width="195" height="60" as="geometry" />
@@ -178,8 +178,8 @@
         <mxCell id="Nx9srBpKDY4uUFDvCekh-20" value="" style="rhombus;whiteSpace=wrap;html=1;" parent="Nx9srBpKDY4uUFDvCekh-19" vertex="1">
           <mxGeometry x="9.999999999999996" y="-7.200000000000001" width="139.99999999999997" height="67.2" as="geometry" />
         </mxCell>
-        <mxCell id="Nx9srBpKDY4uUFDvCekh-21" value="&lt;span style=&quot;color: rgb(55, 58, 60); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Helvetica Neue&amp;quot;, Arial, &amp;quot;Noto Sans&amp;quot;, &amp;quot;Liberation Sans&amp;quot;, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; font-size: 15px; text-align: left; text-wrap-mode: wrap; background-color: rgb(255, 255, 255);&quot;&gt;pertenecen a&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;imageWidth=28;" parent="Nx9srBpKDY4uUFDvCekh-19" vertex="1">
-          <mxGeometry x="25.004999999999995" y="14.403999999999996" width="110" height="30" as="geometry" />
+        <mxCell id="Nx9srBpKDY4uUFDvCekh-21" value="&lt;span style=&quot;color: rgb(55, 58, 60); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Helvetica Neue&amp;quot;, Arial, &amp;quot;Noto Sans&amp;quot;, &amp;quot;Liberation Sans&amp;quot;, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; font-size: 15px; text-align: left; text-wrap-mode: wrap; background-color: rgb(255, 255, 255);&quot;&gt;son comprados&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;imageWidth=28;" parent="Nx9srBpKDY4uUFDvCekh-19" vertex="1">
+          <mxGeometry x="15.004999999999995" y="14.403999999999996" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Nx9srBpKDY4uUFDvCekh-78" value="M:1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="Nx9srBpKDY4uUFDvCekh-19" vertex="1">
           <mxGeometry x="135" y="-0.6000000000000227" width="60" height="54" as="geometry" />
