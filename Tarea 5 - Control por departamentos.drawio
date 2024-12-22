@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3">
   <diagram name="Page-1" id="_mwodajbnXfc841Qu6q9">
-    <mxGraphModel dx="1050" dy="570" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1105" dy="600" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -302,6 +302,12 @@
         </mxCell>
         <mxCell id="uTdQXbfyzLeyU9Q7xthv-2" value="Especialidades" style="ellipse;shape=doubleEllipse;margin=3;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="641" y="624" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="uTdQXbfyzLeyU9Q7xthv-3" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="40" width="370" height="148" as="geometry" />
+        </mxCell>
+        <mxCell id="uTdQXbfyzLeyU9Q7xthv-4" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Tarea 5 - Control por departamentos&lt;/font&gt;&lt;/h1&gt;&lt;h3&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;font color=&quot;#4d4d4d&quot;&gt;Paula Portilla Lejarza&lt;/font&gt;&lt;/font&gt;&lt;/h3&gt;&lt;h3&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;&quot; color=&quot;#4d4d4d&quot;&gt;Gestión de bases de datos&lt;/font&gt;&lt;/span&gt;&lt;/font&gt;&lt;/h3&gt;&lt;h3&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;&quot; color=&quot;#4d4d4d&quot;&gt;1º ASIR onLine&lt;/font&gt;&lt;/span&gt;&lt;/font&gt;&lt;/h3&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="uTdQXbfyzLeyU9Q7xthv-3">
+          <mxGeometry x="15" y="-2" width="355" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
